@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31610f31.css",
+    "main.js": "/static/js/main.2f211168.js",
+    "static/js/453.2561b05d.chunk.js": "/static/js/453.2561b05d.chunk.js",
+    "static/media/aa-logo.png": "/static/media/aa-logo.401d0fc73dfac612c5fc.png",
+    "index.html": "/index.html",
+    "main.31610f31.css.map": "/static/css/main.31610f31.css.map",
+    "main.2f211168.js.map": "/static/js/main.2f211168.js.map",
+    "453.2561b05d.chunk.js.map": "/static/js/453.2561b05d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31610f31.css",
+    "static/js/main.2f211168.js"
+  ]
+}
