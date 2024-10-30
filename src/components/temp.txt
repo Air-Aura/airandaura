@@ -1,0 +1,2 @@
+git config --global user.name "Air-Aura"
+git config --global user.email "airandaura@proton.me"
